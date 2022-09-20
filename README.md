@@ -18,4 +18,5 @@ I am attending the course "Internet of Things, Big Data, Machine Learning" of Un
 <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mySQL"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a>
 
