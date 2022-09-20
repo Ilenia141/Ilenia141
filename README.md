@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Ilenia141
 
-## Student 📖
+## Student
 
 I am attending the course "Internet of Things, Big Data, Machine Learning" of Università degli studi di Udine (UD, Italy)
 
-## About Me ⚡
+## About Me
 
 🐢 - two pet tortoises
 
@@ -12,7 +12,9 @@ I am attending the course "Internet of Things, Big Data, Machine Learning" of Un
 
 💻 - working with computers
 
-## Main skills 🧮
+⚡ - never give up!
+
+## Main skills
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
