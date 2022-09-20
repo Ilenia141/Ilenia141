@@ -20,4 +20,6 @@ I am attending the course "Internet of Things, Big Data, Machine Learning" of Un
 <a href="https://www.mysql.com/" target="_blank" title="mySQL"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mySQL"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" title="CSS"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" title="HTML"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML"/></a>
+<a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
 
