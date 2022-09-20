@@ -2,7 +2,7 @@
 
 ## Student
 
-I am attending the course "Internet of Things, Big Data, Machine Learning" of Università degli studi di Udine (UD, Italy)
+I am attending the course "Internet of Things, Big Data, Machine Learning" of Università degli studi di Udine (UD, Italy) 🧠
 
 ## About Me
 
